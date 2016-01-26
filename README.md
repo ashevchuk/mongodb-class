@@ -1,2 +1,2 @@
 # MongoDB::Class
-MongoDB ORM with use MongoDB Perl Driver v1.xx
+MongoDB ORM with MongoDB Perl Driver v1.xx
